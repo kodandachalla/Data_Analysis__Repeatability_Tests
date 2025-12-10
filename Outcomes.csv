@@ -1,0 +1,28 @@
+,Mean,Range
+ Piston (X_Point1),-213.283,0.021
+ Piston (Y_Point1),-67.304,0.028
+ Piston (Z_Point1),-31.997,0.034
+ Piston (X_Point2),-65.749,0.021
+ Piston (Y_Point2),-46.583,0.027
+ Piston (Z_Point2),-59.53,0.038
+ Piston (X_Point3),-139.48,0.021
+ Piston (Y_Point3),-84.711,0.024
+ Piston (Z_Point3),-105.699,0.036
+ Piston_Rail (X_Point1),-213.278,0.036
+ Piston_Rail (Y_Point1),-67.312,0.067
+ Piston_Rail (Z_Point1),-31.986,0.062
+ Piston_Rail (X_Point2),-65.743,0.041
+ Piston_Rail (Y_Point2),-46.589,0.065
+ Piston_Rail (Z_Point2),-59.52,0.063
+ Piston_Rail (X_Point3),-139.475,0.039
+ Piston_Rail (Y_Point3),-84.716,0.059
+ Piston_Rail (Z_Point3),-105.69,0.059
+ Rail (Downside Piston) (X_Point1),-213.257,0.051
+ Rail (Downside Piston) (Y_Point1),-67.255,0.072
+ Rail (Downside Piston) (Z_Point1),-32.019,0.07
+ Rail (Downside Piston) (X_Point2),-65.718,0.058
+ Rail (Downside Piston) (Y_Point2),-46.581,0.078
+ Rail (Downside Piston) (Z_Point2),-59.536,0.067
+ Rail (Downside Piston) (X_Point3),-139.453,0.058
+ Rail (Downside Piston) (Y_Point3),-84.69,0.07
+ Rail (Downside Piston) (Z_Point3),-105.711,0.064
